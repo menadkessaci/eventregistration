@@ -1,4 +1,4 @@
-package ca.mcgill.ecse321.eventregistration.model;
+package ca.mcgill.ecse321.EventRegistrationBackend.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
